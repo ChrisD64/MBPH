@@ -1,0 +1,11 @@
+body{
+    background-color: grey;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+  }
+  
+  
